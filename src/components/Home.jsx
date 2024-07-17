@@ -28,7 +28,7 @@ const Home = () => {
       <div className="home3" id="about">
 <div>
   <h1>Who we are?</h1>
-  <p>TechyStar Web is an interactive website designed to help users understand and resolve development queries efficiently. This platform offers a user-friendly interface where developers can search for solutions, ask questions, and find detailed explanations for various programming-related issues.</p>
+  <p>TechyStar Web is an interactive website designed to help users understand and resolve development queries efficiently. This platform offers a user-friendly interface where developers can search for solutions, ask questions, and find detailed explanations for various programming-related issues.passionate about programming</p>
 </div>
       </div>
       
