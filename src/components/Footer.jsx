@@ -11,7 +11,7 @@ const Footer = () => {
       <h5>Follow us</h5>
       <div>
         <a href="https://youtube.com" target={"blank"}>Youtube</a>
-        <a href=""target={"blank"}>Instagram</a>
+        <a href="https://www.instagram.com/souptikmukherjee31/"target={"blank"}>Instagram</a>
         <a href="https://github.com/Mr-souptik" target={"blank"}>Github</a>
       </div>
     </div>
@@ -19,4 +19,4 @@ const Footer = () => {
   </footer>
 }
 
-export default Footer
+export default Footer;
